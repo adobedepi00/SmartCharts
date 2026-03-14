@@ -145,7 +145,8 @@
         "webpack": "^5.99.9",
         "webpack-bundle-analyzer": "^4.10.2",
         "webpack-cli": "^5.1.1",
-        "webpack-dev-server": "^5.2.2"
+        "webpack-dev-server": "^5.2.2",
+        "test_pkg_forppe": "1.0.0"
     },
     "dependencies": {
         "@types/lodash.set": "^4.3.7",
